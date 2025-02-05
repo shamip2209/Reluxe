@@ -6,6 +6,9 @@ body{
     padding: 0;
     
 }
+.title-logo{
+    border-radius: 40px;
+}
 /* hero container */
 .hero-container{
  
